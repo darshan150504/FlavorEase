@@ -1,0 +1,5 @@
+Big moto to create the the react web or the application is to create a one page web or application
+
+Main point which create the differance with the react.js
+- in normal website to switch the page we use the anchor tag(a) or the (href) tag using that we redirect the next page which one is the not the property of the react
+- So behalf of the anchor tag(a) we use the (react-router-dom)  package in order to navigate from one component to another we create the differance with the other 
